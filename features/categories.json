@@ -7,7 +7,8 @@
   ],
   "sre": [
     "icarus",
-    "gossip"
+    "gossip",
+    "example"
   ],
   "streaming_messaging": [
     "pipe",
