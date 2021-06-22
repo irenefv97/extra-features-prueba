@@ -3,8 +3,7 @@
     "changelog_drafter",
     "spinnaker",
     "github_cicd",
-    "azure_landing_zone",
-    "example"
+    "azure_landing_zone"
   ],
   "sre": [
     "icarus",
