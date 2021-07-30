@@ -8,6 +8,7 @@
   "sre": [
     "icarus",
     "gossip",
+    "testExample",
     "testExample"
   ],
   "streaming_messaging": [
